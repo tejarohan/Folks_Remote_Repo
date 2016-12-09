@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="First Test Suite" duration-ms="38878" started-at="2016-12-09T00:05:54Z" finished-at="2016-12-09T00:06:33Z">
+    <groups>
+    </groups>
+    <test name="FaceBookTest" duration-ms="38878" started-at="2016-12-09T00:05:54Z" finished-at="2016-12-09T00:06:33Z">
+      <class name="FaceBookPackage.Login">
+        <test-method status="PASS" signature="f1()[pri:0, instance:FaceBookPackage.Login@51565ec2]" name="f1" duration-ms="16639" started-at="2016-12-08T18:06:16Z" finished-at="2016-12-08T18:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- FaceBookPackage.Login -->
+      <class name="FaceBookPackage.Registration">
+        <test-method status="PASS" signature="f2()[pri:0, instance:FaceBookPackage.Registration@68be2bc2]" name="f2" duration-ms="22221" started-at="2016-12-08T18:05:54Z" finished-at="2016-12-08T18:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- FaceBookPackage.Registration -->
+    </test> <!-- FaceBookTest -->
+  </suite> <!-- First Test Suite -->
+</testng-results>

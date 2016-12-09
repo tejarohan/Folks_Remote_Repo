@@ -1,0 +1,8 @@
+<suite name="First Test Suite">
+<test name="FaceBookTest">
+	<classes>
+		<class name="FaceBookPackage.Registration" />
+		<class name="FaceBookPackage.Login" />
+	</classes>
+</test>
+</suite>
